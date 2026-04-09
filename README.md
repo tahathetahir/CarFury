@@ -1,4 +1,4 @@
-# 🚗 CarFury — x86 Assembly DOS Racing Game
+# CarFury — x86 Assembly DOS Racing Game
 
 A real-mode 16-bit DOS racing game written entirely in **NASM x86 Assembly**, featuring a scrolling road, enemy cars, collectibles, collision detection, and a full menu system — all rendered directly to video memory.
 
@@ -6,7 +6,7 @@ A real-mode 16-bit DOS racing game written entirely in **NASM x86 Assembly**, fe
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
 Dodge enemy cars coming down a three-lane road while collecting bonus items to boost your score. The game speeds up over laps, making survival progressively harder.
 
@@ -16,7 +16,7 @@ Dodge enemy cars coming down a three-lane road while collecting bonus items to b
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Scrolling road** — the screen scrolls downward each timer tick, simulating forward motion
 - **3-lane system** — player and enemy cars operate across lanes 1, 2, and 3
@@ -31,7 +31,7 @@ Dodge enemy cars coming down a three-lane road while collecting bonus items to b
 
 ---
 
-## 🛠️ Technical Details
+##  Technical Details
 
 | Detail | Value |
 |---|---|
@@ -46,7 +46,7 @@ Dodge enemy cars coming down a three-lane road while collecting bonus items to b
 
 ---
 
-## 🏗️ Code Structure
+##  Code Structure
 
 ```
 c__2_.asm
@@ -93,7 +93,7 @@ c__2_.asm
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Using DOSBox
 
@@ -116,13 +116,7 @@ c__2_.asm
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of the menu, gameplay, and game-over screen here)*
-
----
-
-## 👥 Authors
+##  Authors
 
 | Roll Number |
 |---|
